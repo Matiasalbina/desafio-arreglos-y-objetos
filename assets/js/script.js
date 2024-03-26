@@ -56,7 +56,7 @@ const propiedades_venta =[
         } 
     ,{
         src: './assets/img/venta-3.jpg"',
-        nombre: 'Luminoso departamentoen el centro',
+        nombre: 'Luminoso departamento en el centro',
         descripcion: 'En el centro de la ciudad. Cercana a colegios, supermercados y centro comercial',
         ubicacion: 'Calle Juan Gutenberg, 647 - Villa Mexico',
         habitaciones: 0,
