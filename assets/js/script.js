@@ -1,5 +1,3 @@
-// ARREGLO DE PROPIEDADES EN VENTA
-
 const propiedades_venta =[
     {
         src: 'https://fotos.perfil.com/2018/09/21/trim/950/534/nueva-york-09212018-366965.jpg',
@@ -8,7 +6,7 @@ const propiedades_venta =[
         ubicacion: '123 Luxury Lane, Prestige Suburb, CA 45678',
         habitaciones: '4 Habitaciones',
         baños: '4 Baños',
-        costo: 5000,
+        costo: 50000,
         smoke: false,
         pets: false
         } 
@@ -19,7 +17,7 @@ const propiedades_venta =[
         ubicacion: '789 Mountain Road, Summit Peaks, CA 23456',
         habitaciones:'2 Habitaciones',
         baños:'1 Baños',
-        costo: 1200,
+        costo: 12000,
         smoke: true,
         pets: true
         } 
@@ -30,7 +28,7 @@ const propiedades_venta =[
         ubicacion: '567 Skyline Avenue, Skyview City, CA 56789',
         habitaciones: '3 Habitaciones',
         baños:'3 Baños',
-        costo: 4500,
+        costo: 45000,
         smoke: false,
         pets: true
         } 
@@ -41,7 +39,7 @@ const propiedades_venta =[
         ubicacion: 'Calle San Eugenio, 600',
         habitaciones:'1 habitación',
         baños:'1 baño',
-        costo: 3000,
+        costo: 30000,
         smoke: true,
         pets: false
         } 
@@ -52,7 +50,7 @@ const propiedades_venta =[
         ubicacion: 'Serrano 1501',
         habitaciones: '3 habiataciones',
         baños:'2 baños',
-        costo: 3500,
+        costo: 35000,
         smoke: false,
         pets: true
         } 
@@ -63,14 +61,12 @@ const propiedades_venta =[
         ubicacion: 'Calle Juan Gutenberg, 647 - Villa Mexico',
         habitaciones: 0,
         baños:'2 baños',
-        costo: 3000,
+        costo: 30000,
         smoke: true,
         pets: true
         } 
     
 ]
-
-// ARREGLO DE PROPIEDADES EN ALQUILER
 
 const propiedades_alquiler =[
     {
@@ -80,7 +76,7 @@ const propiedades_alquiler =[
         ubicacion: '123 Main Street, Anytown, CA 91234',
         habitaciones: '2 Habitaciones',
         baños:'2 Baños',
-        costo: 2.000,
+        costo: 2000,
         smoke: false,
         pets: true
         }
@@ -91,7 +87,7 @@ const propiedades_alquiler =[
         ubicacion: '456 Ocean Avenue, Seaside Town, CA 56789',
         habitaciones: '3 Habitaciones',
         baños:'3 Baños',
-        costo: 2.500,
+        costo: 2500,
         smoke: true,
         pets: true
         } 
@@ -102,7 +98,7 @@ const propiedades_alquiler =[
         ubicacion: '123 Main Street, Anytown, CA 91234',
         habitaciones: '2 Habitaciones',
         baños:'2 Baños',
-        costo: 2.000,
+        costo: 2000,
         smoke: false,
         pets: false
         } 

@@ -1,12 +1,12 @@
 .main-section {
     background-image: url('../img/img-background.jpg');
-    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #555353;
     text-align: center;
 }
 
@@ -15,5 +15,5 @@
 }
 
 .card img{
-    height: 250px;
+    height: 200px;
 }
